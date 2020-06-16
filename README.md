@@ -10,13 +10,12 @@ After sifting through the school and student’s data, we decided to omit the ma
 
 **Original**
 
-image.png
+![distold](https://github.com/SiMewL8/School_District_Analysis/blob/master/summaries_pngs/dist_summ_old.PNG?raw=true)
 
 
 **Fixed**
 
-
-image2.png
+![distnew](https://github.com/SiMewL8/School_District_Analysis/blob/master/summaries_pngs/dist_summ_new.PNG?raw=true)
 
 Here we can see the changed values:
 
@@ -29,11 +28,11 @@ The changes show a 1% drop in the passing percentages. The average math scores i
 
 **Original**
 
-image3.png
+![pskolold](https://github.com/SiMewL8/School_District_Analysis/blob/master/summaries_pngs/perschool_summary_old.PNG?raw=true)
 
 **Fixed**
 
-image4.png
+![pskolnew](https://github.com/SiMewL8/School_District_Analysis/blob/master/summaries_pngs/perschool_summary_new.PNG?raw=true)
 
 The changed values should only be reflected onto Thomas High School since this is a summary of all the schools. The changes are:
 
@@ -47,11 +46,11 @@ The unchanging averages show that, most likely, each of the grade levels had abo
 
 **Original**
 
-image5.png
+![topold](https://github.com/SiMewL8/School_District_Analysis/blob/master/summaries_pngs/bottom_school_old.PNG?raw=true)
 
 **Fixed**
 
-image6.png
+i![topnew](https://github.com/SiMewL8/School_District_Analysis/blob/master/summaries_pngs/bottom_school_new.PNG?raw=true)
 
 After changing the data, Thomas High School dropped from the top spot of 91%, which was tied with 4 other schools, to 65%. It has dropped to the middle of the pack.  
 
@@ -60,11 +59,11 @@ After changing the data, Thomas High School dropped from the top spot of 91%, wh
 
 **Original**
 
-image125.png
+![avgold](https://github.com/SiMewL8/School_District_Analysis/blob/master/summaries_pngs/avg_math_read_old.PNG?raw=true)
 
 **Fixed**
 
-imeiim.png
+![avgnew](https://github.com/SiMewL8/School_District_Analysis/blob/master/summaries_pngs/avg_math_read_new.PNG?raw=true)
 
 There isn't much to compare as we can see the math and reading scores for 9th graders at Thomas High School were replaced with NaNs values, thus the scores were dropped completely.
 
@@ -72,11 +71,11 @@ There isn't much to compare as we can see the math and reading scores for 9th gr
 
 **Original**
 
-imwegewg.png
+![spndold](https://github.com/SiMewL8/School_District_Analysis/blob/master/summaries_pngs/spedning_summay_old.PNG?raw=true)
 
 **Fixed**
 
-eireont.png
+![spndnew](https://github.com/SiMewL8/School_District_Analysis/blob/master/summaries_pngs/spedning_summay_new.PNG?raw=true)
 
 Few things to note:
 
@@ -89,10 +88,11 @@ Only the passing percentages in the $630-644 spending category had a slight drop
 
 **Original**
 
-iefniengeg.png
+![dbubfu3ghgg](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 **Fixed**
-efegrgrhr.png
+
+![dbubfu3ghgg](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 
 Here are the changes:
 
@@ -101,17 +101,17 @@ Here are the changes:
 
 It is expected that the averages should mostly stay the same. The significant change is brought in the Passing percentages again, and it becomes apparent as Thomas High School falls under the Medium School Size.
 
-###
+### Score by School Type
 
 **Original**
 
-iefnhrhrriengeg.png
+![typeold](https://github.com/SiMewL8/School_District_Analysis/blob/master/summaries_pngs/type_school_old.PNG?raw=true)
 
 **Fixed**
 
 efegrgqhebvrhr.png
 
-For Charter and Districts:
+![typenew](https://github.com/SiMewL8/School_District_Analysis/blob/master/summaries_pngs/type_school_new.PNG?raw=true)
 
 1. Values aren't affected in the District category.
 2. Charter category had the same percentages compared to the original, but the newfound pattern of passing percentage drops has been repeated here as well. Both Math and Reading shared a 4% drop, while Overall had a 3% drop.
