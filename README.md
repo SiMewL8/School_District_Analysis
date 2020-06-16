@@ -86,7 +86,13 @@ Only the passing percentages in the $630-644 spending category had a slight drop
 
 ### Score by School Size
 
-dd
+**Original**
+
+![dbubfu3ghgg](https://github.com/SiMewL8/School_District_Analysis/blob/master/summaries_pngs/size_old.PNG?raw=true)
+
+**Fixed**
+
+![dbubfu3ghgg](https://github.com/SiMewL8/School_District_Analysis/blob/master/summaries_pngs/size_new.PNG?raw=true)
 
 Here are the changes:
 
