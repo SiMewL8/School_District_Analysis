@@ -86,13 +86,7 @@ Only the passing percentages in the $630-644 spending category had a slight drop
 
 ### Score by School Size
 
-**Original**
-
-![dbubfu3ghgg](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
-
-**Fixed**
-
-![dbubfu3ghgg](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+dd
 
 Here are the changes:
 
