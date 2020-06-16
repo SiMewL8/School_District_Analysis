@@ -50,7 +50,7 @@ The unchanging averages show that, most likely, each of the grade levels had abo
 
 **Fixed**
 
-i![topnew](https://github.com/SiMewL8/School_District_Analysis/blob/master/summaries_pngs/bottom_school_new.PNG?raw=true)
+![topnew](https://github.com/SiMewL8/School_District_Analysis/blob/master/summaries_pngs/bottom_school_new.PNG?raw=true)
 
 After changing the data, Thomas High School dropped from the top spot of 91%, which was tied with 4 other schools, to 65%. It has dropped to the middle of the pack.  
 
@@ -108,8 +108,6 @@ It is expected that the averages should mostly stay the same. The significant ch
 ![typeold](https://github.com/SiMewL8/School_District_Analysis/blob/master/summaries_pngs/type_school_old.PNG?raw=true)
 
 **Fixed**
-
-efegrgqhebvrhr.png
 
 ![typenew](https://github.com/SiMewL8/School_District_Analysis/blob/master/summaries_pngs/type_school_new.PNG?raw=true)
 
